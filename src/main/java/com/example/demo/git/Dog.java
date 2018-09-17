@@ -6,5 +6,6 @@ package com.example.demo.git;
 public class Dog {
     public static void main(String[] args) {
         System.out.println("坦克");
+        System.out.println("不是坦克");
     }
 }
